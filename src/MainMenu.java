@@ -9,7 +9,7 @@ import java.util.regex.Pattern;
 
 public class MainMenu {
 
-    public static void main(String[] args) throws ParseException {
+    public static void mainMenu() throws ParseException {
         boolean loopFlag = true;
         System.out.println("Welcome to the Hotel Reservation Application\n");
 
